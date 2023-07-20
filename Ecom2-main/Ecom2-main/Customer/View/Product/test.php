@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../resources/lib/tailwind/output.css">
 </head>
 
-<body class="text-lg h-screen bg-blue-300">
+<body class="text-lg h-screen bg-red-300">
     <h1>Testing Page</h1>
     <p>TEst 2</p>
     <select name="" id="">
