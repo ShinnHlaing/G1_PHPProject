@@ -10,6 +10,7 @@
 
 <body class="text-lg h-screen bg-red-300">
     <h1>Testing Page</h1>
+    <p>Hello</p>
 </body>
 
 </html>
