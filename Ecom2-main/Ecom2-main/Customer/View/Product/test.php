@@ -10,6 +10,11 @@
 
 <body class="text-lg h-screen bg-red-300">
     <h1>Testing Page</h1>
+    <p>TEst 2</p>
+    <select name="" id="">
+        <option value="">1</option>
+        <option value="">2</option>
+    </select>
 </body>
 
 </html>
