@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../resources/lib/tailwind/output.css">
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
 </head>
 
 <body class="bg-slate-100">
@@ -55,7 +55,6 @@
                     <path d="M6.31738 36.6016C6.31738 36.6016 11.0948 30.5017 22.8831 30.5017C34.6714 30.5017 39.451 36.6016 39.451 36.6016M22.8831 23.0001C24.5884 23.0001 26.2239 22.3226 27.4298 21.1168C28.6356 19.9109 29.3131 18.2754 29.3131 16.5701C29.3131 14.8648 28.6356 13.2293 27.4298 12.0234C26.2239 10.8176 24.5884 10.1401 22.8831 10.1401C21.1778 10.1401 19.5423 10.8176 18.3364 12.0234C17.1306 13.2293 16.4531 14.8648 16.4531 16.5701C16.4531 18.2754 17.1306 19.9109 18.3364 21.1168C19.5423 22.3226 21.1778 23.0001 22.8831 23.0001Z" stroke="#024486" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
             </div>
-
         </div>
     </div>
     <div class="w-full h-1 bg-blue-800"></div>
@@ -100,25 +99,25 @@
                     <p class="text-xl font-semibold">Name</p>
                 </div>
                 <div class="mt-5 cursor-pointer">
-                    <input type="text" name="name" id="" class="w-1/3 h-10 rounded-md border-solid border-2 border-black px-5">
+                    <input type="text" name="name" id="" class="w-1/3 h-10 rounded-md border-solid border-2 border-black px-4">
                 </div>
                 <div class="w-1/2 ml-32 mt-5">
                     <p class="text-xl font-semibold">Email address</p>
                 </div>
                 <div class="mt-5 cursor-pointer">
-                    <input type="email" name="name" id="" class="w-1/3 h-10 rounded-md border-solid border-2 border-black px-5">
+                    <input type="email" name="name" id="" class="w-1/3 h-10 rounded-md border-solid border-2 border-black px-4">
                 </div>
                 <div class="w-1/2 ml-28 mt-5">
                     <p class="text-xl font-semibold">Location</p>
                 </div>
                 <div class="mt-5 cursor-pointer">
-                    <input type="text" name="name" id="" class="w-1/3 h-10 rounded-md border-solid border-2 border-black px-5">
+                    <input type="text" name="name" id="" class="w-1/3 h-10 rounded-md border-solid border-2 border-black px-4">
                 </div>
                 <div class="w-1/2 ml-36 mt-5">
                     <p class="text-xl font-semibold">Phone Number</p>
                 </div>
                 <div class="mt-5 cursor-pointer">
-                    <input type="number" inputmode="numeric" name="name" id="" class="w-1/3 h-10 rounded-md border-solid border-2 border-black px-5">
+                    <input type="number" inputmode="numeric" name="name" id="" class="w-1/3 h-10 rounded-md border-solid border-2 border-black px-4">
                 </div>
 
             </div>  
@@ -128,5 +127,4 @@
         </div>
     </div>
 </body>
-
 </html>
